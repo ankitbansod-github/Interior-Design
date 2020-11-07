@@ -1,4 +1,4 @@
-# Iterior-design
+# Interior-design
 It is an Interior design Django project
 
 ## Running this Project 
@@ -6,7 +6,7 @@ It is an Interior design Django project
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ankitbansod-github/Iterior-design.git
+git clone https://github.com/ankitbansod-github/Interior-design.git
 ```
 
 Install the requirements:
